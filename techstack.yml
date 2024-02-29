@@ -2,7 +2,7 @@ repo_name: lilcashpl/PhysX
 report_id: 51edb4b0cce0a2bae12e9709a07b4bb8
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:31:41+00:00'
+timestamp: '2024-02-29T18:55:33+00:00'
 requested_by: lilcashpl
 provider: github
 branch: main
@@ -51,7 +51,7 @@ tools:
   detection_source_url: https://github.com/lilcashpl/PhysX
   detection_source: Repo Metadata
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
